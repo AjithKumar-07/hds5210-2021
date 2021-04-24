@@ -1,0 +1,3 @@
+I think your interpretation of the COVID data set is a bit misleading.  The hisograms you've plotted don't give you much insight into total deaths in any meaningful way.  Think about the underlying data.  What is it reporting, and what does it mean to plot a histogram?  Histograms show the frequency of particular values in the underlying data.  So, your histograms show how often a certain number appears for 'total_cases' or 'total_deaths'.  And what do those underlying values mean in this data set?  Those numbers are the reported deaths in a particular region on a particular day.  So, your histogram is really showing how many days/regions had total deaths of a particular scale.
+
+
